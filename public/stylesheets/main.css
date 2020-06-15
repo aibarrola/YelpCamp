@@ -1,0 +1,23 @@
+body{
+    background: lightslategray;
+}
+
+.img-thumbnail img {
+    width: 100%;
+}
+
+.img-thumbnail{
+    padding: 0;
+}
+
+.card{
+    height: 100%;
+}
+
+.caption{
+    padding: 9px;
+}
+
+.delete-form{
+    display: inline;
+}
