@@ -21,3 +21,12 @@ body{
 .delete-form{
     display: inline;
 }
+
+.center{
+    text-align:center;
+}
+
+.forms{
+    margin-top: 2%;
+    width: 30%;
+}
