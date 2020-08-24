@@ -1,6 +1,6 @@
 # Yelp Camp 
-Users review and recommendations of best campsites
----
+## Users review and recommendations of best campsites
+
 __Context__: This was a project from a Web Development Udemy course that allows users to add, edit, delete, and comment on campgrounds
 
 __Challenges__: A few of the challenges included trying to teach myself the newer technologies since parts of the course were outdated. I also caught myself many times just copying the instructor. So I had to stop myself and really think about the bigger picture and the explanation for each piece of code when I fell into this trance of of watching and copying. 
