@@ -27,7 +27,7 @@ npm install passport-local-mongoose
 2) Login with your account info
 3) View other campsites and comment 
 4) Add your own campsite 
-5) Edit or delete campsite information
+5) Delete or edit campsite information
 
 # Demonstration 
 ![](demo.gif)
