@@ -1,5 +1,5 @@
 # Yelp Camp 
-### Users review and recommendations of best campsites\
+### Users review and recommendations of best campsites  
 
 __Context__: This was a project from a Web Development Udemy course that allows users to add, edit, delete, and comment on campgrounds
 
