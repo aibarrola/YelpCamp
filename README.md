@@ -28,9 +28,5 @@ npm install passport-local-mongoose
 4) Add your own campsite 
 5) Edit or delete campsite information
 
-## Deployment
-- [yelp-camp-05.herokuapp.com/](https://yelp-camp-05.herokuapp.com/)
-- Deployed on Heroku  
-
 # Demonstration 
 ![](demo.gif)
