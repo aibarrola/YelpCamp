@@ -20,8 +20,9 @@ npm install nodemon
 npm install passport
 npm install passport-local
 npm install passport-local-mongoose
+```
 
-## How it works:
+## How it works: 
 1) Create an account 
 2) Login with your account info
 3) View other campsites and comment 
